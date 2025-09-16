@@ -124,4 +124,5 @@ title: "RP2040小型化基板の製作とJLCPCBの魅力に迫る"
 ---
 
 📌 **JLCPCBについてもっと知りたい方はこちら：**  
-[https://jlcpcb.com/](https://jlcpcb.com/)
+日本語サイト→→→[https://jlcpcb.com/](https://jlcpcb.com/jp/)
+英語サイト→→→[https://jlcpcb.com/](https://jlcpcb.com/JPV/)
