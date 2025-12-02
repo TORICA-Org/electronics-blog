@@ -1,2 +1,2 @@
-# TORICA_Electric_Blog
+# TORICA_Electronics_Blog
 Blog用リポジトリ
