@@ -3,5 +3,5 @@ plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-sitemap
 
-title: 鳥科 - 電装班
+title: 鳥科 電装班
 description: 東京理科大学鳥人間サークル鳥科 電装班の公式ブログです．
