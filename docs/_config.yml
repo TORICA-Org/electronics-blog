@@ -1,7 +1,5 @@
 title: 鳥科 電装班
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-sitemap
-
-# リポジトリ名（ここを正しい綴りに修正！）
-baseurl: "/electronics-blog"
 
