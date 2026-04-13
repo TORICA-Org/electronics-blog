@@ -9,16 +9,16 @@
 
 # 鳥科とは？
 
-### [公式ブログ](https://torica-tus.com)をご確認ください！</span>
+<span style="font-size:large;"> [公式ブログ](https://torica-tus.com)をご確認ください！</span>
 
 # 電装班とは？
 
 鳥科において，鳥人間コンテスト 滑空機部門に出場する機体に搭載する電子機器の製作を担当している班です．
 
-# PR
+# 記事
 
+## PR
 - [RP2040小型化基板の製作とJLCPCBの魅力に迫る](commercials/TORICAberry_Pi_Bico)
 
-# 投稿
-
+## 電装班員の寝言
 - 近日投稿予定 []()
