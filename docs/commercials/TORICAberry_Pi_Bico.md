@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: default
 title: "RP2040小型化基板の製作とJLCPCBの魅力に迫る"
 ---
 
