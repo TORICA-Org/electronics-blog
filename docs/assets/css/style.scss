@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 header {
-  background-image: url(../imgHeader.jpg);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.5) 100%), url(../imgHeader.jpg);
   background-size: cover;
-  background-position: center center;
+  background-position: center 30%;
 }
